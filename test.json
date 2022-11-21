@@ -1,0 +1,23 @@
+{
+  "username": "giang",
+  "trips": [
+    {
+      "date": "22/11/2022",
+      "description": "123",
+      "destination": "123",
+      "id": 1,
+      "name": "123",
+      "riskAssessment": "YES",
+      "vehicle": "Car"
+    },
+    {
+      "date": "22/11/2022",
+      "description": "123",
+      "destination": "123",
+      "id": 2,
+      "name": "123",
+      "riskAssessment": "YES",
+      "vehicle": "Plane"
+    }
+  ]
+}
