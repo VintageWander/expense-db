@@ -26,6 +26,7 @@ pub enum Vehicle {
     Train,
     Helicopter,
     Subway,
+    #[serde(rename = "UFO")]
     Ufo,
     Other,
 }
