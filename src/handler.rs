@@ -25,3 +25,8 @@ pub async fn create_trips_handler(
 
     Ok(Web::ok("Expense posted successfully", new_expense))
 }
+
+#[handler]
+pub async fn hello() -> WebResult {
+    Ok(Web::ok("Connect success", ()))
+}
